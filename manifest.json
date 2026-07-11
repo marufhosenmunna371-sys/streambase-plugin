@@ -1,5 +1,5 @@
 {
-  "id": "banglamultisourceprovider",
+  "id": "streambase-plugin",
   "name": "streambase",
   "version": "1.0.0",
   "filename": "./provider.js",
