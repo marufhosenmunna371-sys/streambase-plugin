@@ -2,7 +2,7 @@
   "id": "banglamultisourceprovider",
   "name": "streambase",
   "version": "1.0.0",
-  "filename": "provider.js",
+  "filename": "./provider.js",
   "supportedTypes": ["movie", "tv"],
   "enabled": true
 }
