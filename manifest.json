@@ -1,8 +1,8 @@
 {
   "id": "streambase-plugin",
   "name": "streambase",
-  "version": "1.0.0",
-  "filename": "./provider.js",
-  "supportedTypes": ["movie", "tv"],
+  "version": "2.0.0",
+  "filename": "https://raw.githubusercontent.com/marufhosenmunna371-sys/streambase-plugin/refs/heads/main/provider.js",
+  "supportedTypes": ["movie", "tv", "anime"],
   "enabled": true
 }
